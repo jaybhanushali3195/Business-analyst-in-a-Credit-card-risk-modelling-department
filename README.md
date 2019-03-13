@@ -1,1 +1,4 @@
-# Business-analyst-in-a-Credit-card-risk-modelling-department
+# Business analyst in a Credit card risk modelling department
+Data collected by credit card risk modeling department over a experiment conducted over 3 years ago for every single day is analyzed to build 3 different models used for 3 different business decision making.Initially a binary classification model is build to predict future defaults on the basis of maximum Area under ROC curve after which acost minimizing threshold is calculated according to the price of False Negative and Flase positive given.Our model is then compared to the model made on scores given by a credit card scoring company and
+a decision is made if it will be feasible to buy the scores or not.
+Later on, a model is built on Profitability instead of Default since some customers who default are profitable.The model is used to forecast the profitability of each applicant  before deciding whether to issue credit card or not.
